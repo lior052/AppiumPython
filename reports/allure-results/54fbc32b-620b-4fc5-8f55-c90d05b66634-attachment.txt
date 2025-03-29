@@ -1,2 +1,0 @@
-[32mINFO    [0m root:conftest.py:45 Running test: test_home_open_web_view
-[32mINFO    [0m root:conftest.py:55 Test passed: test_home_open_web_view
