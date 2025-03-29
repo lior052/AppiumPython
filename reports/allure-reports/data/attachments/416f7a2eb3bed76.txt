@@ -1,0 +1,2 @@
+[32mINFO    [0m root:conftest.py:45 Running test: test_dummy
+[32mINFO    [0m root:conftest.py:55 Test passed: test_dummy

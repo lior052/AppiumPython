@@ -1,0 +1,9 @@
+ios:
+  platformName: "iOS"
+  deviceName: "iPhone 13 Pro"
+  platformVersion: "18.3"
+  automationName: "XCUITest"
+  app: "/Users/lior/Library/Developer/Xcode/DerivedData/UIKitCatalog-ffbfzacbhfcgzecvsxrzacugnuyv/Build/Products/Debug-iphonesimulator/UIKitCatalog.app"
+  bundleId: "com.example.apple-samplecode.UICatalog"
+  noReset: true
+  newCommandTimeout: 300

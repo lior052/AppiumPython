@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3453","test_dummy","src.tests.ios_tests","Sat Mar 29 22:05:15 IDT 2025","passed","Sat Mar 29 22:05:19 IDT 2025","TestHome","test_home_page","",""
+"","9152","test_home_open_web_view","src.tests.ios_tests","Sat Mar 29 22:05:00 IDT 2025","passed","Sat Mar 29 22:05:09 IDT 2025","TestHome","test_home_page","",""
+"","7806","test_home_open_alert_view","src.tests.ios_tests","Sat Mar 29 22:04:47 IDT 2025","passed","Sat Mar 29 22:04:55 IDT 2025","TestHome","test_home_page","",""
+"","0","test_login","src.tests.android_tests","Sat Mar 29 22:04:36 IDT 2025","broken","Sat Mar 29 22:04:36 IDT 2025","TestHome","test_login_page","",""
